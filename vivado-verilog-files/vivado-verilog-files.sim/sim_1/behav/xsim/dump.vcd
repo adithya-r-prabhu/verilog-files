@@ -1,0 +1,46 @@
+$date
+   Sun Mar  9 19:52:18 2025
+$end
+
+$version
+  2024.2.0
+$end
+
+$timescale
+  1ps
+$end
+
+$scope module half_adder_tb $end
+$var reg 1 ! i1 $end
+$var reg 1 " i2 $end
+$var wire 1 # o $end
+$var wire 1 $ p $end
+$scope module dut $end
+$var wire 1 # y $end
+$var wire 1 $ z $end
+$var wire 1 % a $end
+$var wire 1 & b $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+0%
+0&
+$end
+
+#10000
+1"
+1#
+1&
+
+#20000
+1!
+0"
+1%
+0&
