@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+Time=0 | Q=00
+Time=30000 | Q=01
+Time=50000 | Q=10
+Time=70000 | Q=11
+Time=90000 | Q=00
+Time=110000 | Q=01
+$finish called at time : 115 ns : File "C:/Users/adith/Documents/verilog-files/vivado-verilog-files/vivado-verilog-files.srcs/sources_1/new/mod4_synchronous_tb.v" Line 43
